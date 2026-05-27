@@ -37,4 +37,4 @@ INSERT INTO users VALUES ( --a.2. Se inserta datos en la tabla "users"
 --Respuesta: Scrip SQL para crear y almacenar la base de datos del proyecto.
 
 
-                                            --holis,xd 
+                                   
