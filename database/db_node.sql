@@ -36,5 +36,5 @@ INSERT INTO users VALUES ( --a.2. Se inserta datos en la tabla "users"
 --pregunta 2: ¿Qué función cumple el archivo en el proyecto 
 --Respuesta: Scrip SQL para crear y almacenar la base de datos del proyecto.
 
---holi, esto es practica xd 
+
                                             
